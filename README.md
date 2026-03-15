@@ -264,8 +264,8 @@ GrantArchive doesn't just show you what's open today — it builds a **historica
   <tbody>
     <tr>
       <td align="center"><b>$0</b><br/><sub>Forever free</sub></td>
-      <td align="center"><b>$14.99/mo</b><br/><sub>3-day free trial</sub></td>
-      <td align="center"><b>$99/year</b><br/><sub>7-day free trial · Save 45%+</sub></td>
+      <td align="center"><b>$49/mo</b><br/><sub>3-day free trial</sub></td>
+      <td align="center"><b>$399/year</b><br/><sub>7-day free trial · Save 32%+</sub></td>
     </tr>
     <tr>
       <td>✅ Browse all grants<br/>✅ Basic keyword search<br/>✅ View grant details<br/>❌ No card required</td>
