@@ -11,7 +11,7 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <a href="https://grantarchive.com" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=059669&center=true&vCenter=true&width=700&lines=🔍+Search+Thousands+of+Active+Federal+Grants;📬+Get+Instant+Alerts+on+New+Opportunities;📅+Never+Miss+a+Grant+Deadline+Again;💰+Access+Billions+in+Federal+Funding;🏛️+Data+from+26%2B+Federal+Agencies" alt="GrantArchive Features" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=059669&center=true&vCenter=true&width=700&lines=Search+Thousands+of+Active+Federal+Grants;Get+Instant+Alerts+on+New+Opportunities;Never+Miss+a+Grant+Deadline+Again;Access+Billions+in+Federal+Funding;Data+from+26%2B+Federal+Agencies" alt="GrantArchive Features" />
 </a>
 
 <br/>
@@ -315,20 +315,6 @@ graph LR
 ```
 
 <br/>
-
-<div align="center">
-
-| Layer | Technology |
-|-------|-----------|
-| 🖥️ **Backend** | PHP · Symfony · Doctrine ORM |
-| 🗄️ **Database** | PostgreSQL with full-text search |
-| ⚡ **Cache** | Redis for high-performance queries |
-| 🎨 **Frontend** | Tailwind CSS · Alpine.js |
-| 📬 **Email** | Automated digest + alert system |
-| 🔄 **Data Sync** | Cron-driven Grants.gov API sync (4h interval) |
-| 🌍 **Hosting** | Production-grade cloud infrastructure |
-
-</div>
 
 ---
 
